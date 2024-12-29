@@ -1,0 +1,42 @@
+"EcoDAO"
+
+Missão da DAO:
+A EcoDAO tem como missão promover práticas sustentáveis através de financiamento coletivo descentralizado. Ela visa apoiar projetos de impacto ambiental positivo, como energias renováveis, preservação de biodiversidade e educação ambiental. A DAO funcionará como uma plataforma para conectar doadores, desenvolvedores de projetos e ativistas ambientais, permitindo a tomada de decisões através de governança descentralizada.
+
+Valor Entregue:
+Financiamento coletivo para projetos ambientais.
+Participação ativa na decisão sobre quais projetos devem ser financiados.
+Transparência e rastreabilidade no uso dos fundos.
+Incentivo à colaboração global em prol da sustentabilidade.
+
+Estrutura de Governança
+A EcoDAO será gerida através de um sistema de governança descentralizada baseado em tokens de governança. Qualquer participante da DAO, que tenha tokens, poderá votar em propostas e ajudar a determinar a direção dos fundos e das iniciativas da organização.
+
+Propostas e Votação: As propostas para financiamento de projetos serão submetidas pelos membros e votadas pela comunidade. As decisões são tomadas por maioria de votos.
+Distribuição de Tokens: Os tokens de governança podem ser adquiridos de duas maneiras:
+Participando como doador.
+Participando ativamente em atividades relacionadas à DAO (como a construção de projetos ou ajuda em eventos).
+
+Arquitetura Técnica
+Contratos Inteligentes:
+
+Contrato de Governança: Controla o mecanismo de votação, aprovação de propostas e distribuição de fundos.
+Contrato de Doações: Facilita as contribuições de fundos e os processos de alocação para os projetos aprovados.
+Contrato de Recompensas: Premia membros ativos e desenvolvedores com tokens de governança.
+Oráculos: Serão utilizados oráculos para validar a veracidade e impacto de cada projeto financiado. Por exemplo, podemos usar um oráculo que valide dados ambientais, como a quantidade de CO2 reduzido por um projeto de energia renovável.
+
+Interface de Usuário (UI):
+
+Uma interface simples e intuitiva que permita aos membros votarem em propostas, visualizar os projetos em andamento e acompanhar os fundos da DAO.
+
+ Estratégia de Marketing e Engajamento
+A EcoDAO buscará engajar a comunidade por meio de:
+
+Parcerias com ONGs e Projetos Ambientais: Atraindo projetos reais e eficazes para se beneficiarem da DAO.
+Campanhas Educativas: Promovendo a educação sobre sustentabilidade e como as DAOs podem ser usadas para financiar esses projetos.
+Recompensas para Participantes: Oferecendo tokens como incentivo para quem contribuir com ideias, projetos ou novos membros para a DAO.
+
+Proposta de Implementação e Funcionalidades
+Reuniões e Comunicação: A DAO se comunicará através de canais descentralizados, como Discord e fóruns públicos.
+Auditoria e Transparência: Todos os fundos e transações serão auditados de forma transparente, utilizando a blockchain para garantir a segurança e rastreabilidade.
+Incentivo à Participação: Ao promover a participação ativa na governança, os membros ganham tokens que podem ser usados para influenciar decisões futuras.
